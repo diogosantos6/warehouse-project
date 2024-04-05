@@ -1,0 +1,10 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Fitness:
+100	100	Tournament selection(2)	PMX recombination (0.1)	Insert Mutation (0.1)		136
+100	100	Tournament selection(2)	PMX recombination (0.1)	Insert Mutation (0.3)		124
+100	100	Tournament selection(2)	PMX recombination (0.1)	Insert Mutation (0.7)		146
+100	100	Tournament selection(2)	PMX recombination (0.1)	Mutation 2 (0.1)		134
+100	100	Tournament selection(2)	PMX recombination (0.1)	Mutation 2 (0.3)		126
+100	100	Tournament selection(2)	PMX recombination (0.1)	Mutation 2 (0.7)		144
+100	100	Tournament selection(2)	PMX recombination (0.1)	Mutation 3 (0.1)		124
+100	100	Tournament selection(2)	PMX recombination (0.1)	Mutation 3 (0.3)		132
+100	100	Tournament selection(2)	PMX recombination (0.1)	Mutation 3 (0.7)		158

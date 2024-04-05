@@ -1,0 +1,10 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Average:	StdDev:
+100	100	Tournament selection(2)	Recombination 2 (0.7)	Mutation 2 (0.1)		136.53333333333333	7.67564691446627
+100	100	Tournament selection(3)	Recombination 2 (0.7)	Mutation 2 (0.1)		136.0	9.352361555600098
+100	100	Tournament selection(4)	Recombination 2 (0.7)	Mutation 2 (0.1)		135.73333333333332	7.1876437183698965
+100	100	Tournament selection(5)	Recombination 2 (0.7)	Mutation 2 (0.1)		140.53333333333333	15.344343872870189
+100	100	Tournament selection(6)	Recombination 2 (0.7)	Mutation 2 (0.1)		134.66666666666666	8.537498983243799
+100	100	Tournament selection(7)	Recombination 2 (0.7)	Mutation 2 (0.1)		142.66666666666666	10.873004286866726
+100	100	Tournament selection(8)	Recombination 2 (0.7)	Mutation 2 (0.1)		137.06666666666666	7.478561953269417
+100	100	Tournament selection(9)	Recombination 2 (0.7)	Mutation 2 (0.1)		137.46666666666667	6.75146074729182
+100	100	Tournament selection(10)	Recombination 2 (0.7)	Mutation 2 (0.1)		139.6	10.461357464497619

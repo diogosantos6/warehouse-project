@@ -1,0 +1,5 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Fitness:
+100	100	Tournament selection(2)	Recombination 2 (0.3)	Mutation 2 (0.1)		122
+100	100	Tournament selection(2)	Recombination 2 (0.3)	Mutation 3 (0.1)		124
+100	100	Tournament selection(2)	Recombination 2 (0.7)	Mutation 2 (0.1)		120
+100	100	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.1)		124
